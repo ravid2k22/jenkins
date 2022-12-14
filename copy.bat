@@ -1,3 +1,4 @@
 echo "Hello "
-dir
-dir /p
+mkdir d:/apache
+copy *.* d:/apache
+echo "Done ..."
